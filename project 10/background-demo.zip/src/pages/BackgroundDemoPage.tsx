@@ -1,0 +1,1 @@
+{/* Content from src/pages/BackgroundDemoPage.tsx */}

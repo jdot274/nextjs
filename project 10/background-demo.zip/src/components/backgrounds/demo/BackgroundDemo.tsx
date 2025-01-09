@@ -1,0 +1,1 @@
+{/* Content from src/components/backgrounds/demo/BackgroundDemo.tsx */}
